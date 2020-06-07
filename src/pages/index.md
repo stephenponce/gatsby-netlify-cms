@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Stephen Ponce
-image: /img/home-jumbotron.jpg
+image: /img/abstract-light-circle.jpg
 heading: " What I do"
 subheading: Technical Product Manager & Business Analyst
 mainpitch:
