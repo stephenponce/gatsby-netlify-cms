@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Stephen Ponce
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: " What I do"
+subheading: Technical Product Manager & Business Analyst
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Who I am
+  description: >+
+    Stephen is product management and business analyst consultant living in Los
+    Angeles, California.
+
+description: I've been building software to provide value for businesses & their
+  customers, since 2007. I've worked at small, start-up companies, large Fortune
+  500 corporations and everything in between. I specialize in product
+  management, business analysis, user experience design, software design and
+  architectures.
 intro:
   blurbs:
     - image: /img/coffee.png
