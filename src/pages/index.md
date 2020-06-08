@@ -13,8 +13,7 @@ mainpitch:
 description: I've been building software to provide value for businesses & their
   customers, since 2007. I've worked at small, start-up companies, large Fortune
   500 corporations and everything in between. I specialize in product
-  management, business analysis, user experience design, software design and
-  architectures.
+  management, business analysis, user experience design, and software architecture.
 intro:
   blurbs:
     - image: /img/coffee.png
