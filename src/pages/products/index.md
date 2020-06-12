@@ -17,8 +17,8 @@ intro:
       text: "  LOREM IPSUM"
     - image: /img/optum_2x.png
       text: "  LOREM IPSUM"
-  heading: "  "
-  description: " "
+  heading: "LOREM IPSUM  "
+  description: " LOREM IPSUM"
 main:
   heading: Great coffee with no compromises
   description: >
