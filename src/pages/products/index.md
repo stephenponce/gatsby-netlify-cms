@@ -12,12 +12,9 @@ intro:
     - image: /img/windsor-logo_330x.webp
       text: Led their eCommerce Migration from their old platform to a new online
         store powered by Shopify Plus.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/bby_logo-82846.png
+      text: Led the implementation of Best Buy Mobile's Technology strategy for retail
+        sales & activations.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
