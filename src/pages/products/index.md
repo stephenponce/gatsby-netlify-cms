@@ -9,10 +9,10 @@ description: "Over the past ten years, I’ve worked with a variety of
   everything in between. "
 intro:
   blurbs:
-    - image: /img/windsor-logo_330x.webp
+    - image: /img/windsor-logo.svg
       text: Led their eCommerce Migration from their old platform to a new online
         store powered by Shopify Plus.
-    - image: /img/best_buy_logo_transparent-700x483.png
+    - image: /img/best_buy_logo_2018.svg
       text: Led the implementation of Best Buy Mobile's Technology strategy for retail
         sales & activations.
     - image: /img/tutorials.png
