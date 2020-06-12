@@ -13,8 +13,6 @@ intro:
       text: LOREM IPSUM
     - image: /img/best_buy_logo_2018.svg
       text: "  LOREM IPSUM"
-    - image: /img/aarp_medplans_logo.svg
-      text: "LOREM IPSUM  "
     - image: /img/uhc_medicare_logo.svg
       text: "  LOREM IPSUM"
     - image: /img/optum_2x.png
