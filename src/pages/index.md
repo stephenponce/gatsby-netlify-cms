@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Stephen Ponce
 image: /img/abstract-light-circle.jpg
-heading: " What I do"
+heading: "  "
 subheading: Technical Product Manager & Business Analyst
 mainpitch:
   title: Who I am
@@ -10,10 +10,7 @@ mainpitch:
     Stephen is product management and business analyst consultant living in Los
     Angeles, California.
 
-description: I've been building software to provide value for businesses & their
-  customers, since 2007. I've worked at small, start-up companies, large Fortune
-  500 corporations and everything in between. I specialize in product
-  management, business analysis, user experience design, and software architecture.
+description: "  "
 intro:
   blurbs:
     - image: /img/coffee.png
