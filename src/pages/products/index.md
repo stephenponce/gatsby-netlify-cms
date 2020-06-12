@@ -10,25 +10,15 @@ description: "Over the past ten years, I’ve worked with a variety of
 intro:
   blurbs:
     - image: /img/windsor-logo.svg
-      text: Led their eCommerce Migration from their old platform to a new online
-        store powered by Shopify Plus.
+      text: "  "
     - image: /img/best_buy_logo_2018.svg
-      text: Led the implementation of Best Buy Mobile's Technology strategy for retail
-        sales & activations.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: "  "
+    - image: /img/aarp_medplans_logo.svg
+      text: "  "
+    - image: /img/uhc_medicare_logo.svg
+      text: "  "
+    - image: /img/optum_2x.png
+      text: "  "
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
