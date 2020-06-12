@@ -9,7 +9,7 @@ description: "Over the past ten years, I’ve worked with a variety of
   everything in between. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/windsor-logo_330x.webp
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
