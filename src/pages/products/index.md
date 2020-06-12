@@ -15,8 +15,6 @@ intro:
       text: "  LOREM IPSUM"
     - image: /img/uhc_medicare_logo.svg
       text: "  LOREM IPSUM"
-    - image: /img/optum_2x.png
-      text: "  LOREM IPSUM"
   heading: "LOREM IPSUM  "
   description: " LOREM IPSUM"
 main:
