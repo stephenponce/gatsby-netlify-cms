@@ -10,11 +10,11 @@ description: "Over the past ten years, I’ve worked with a variety of
 intro:
   blurbs:
     - image: /img/windsor-logo.svg
-      text: LOREM IPSUM
+      text: Windsor Fashions
     - image: /img/best_buy_logo_2018.svg
-      text: "  LOREM IPSUM"
+      text: BestBuy
     - image: /img/uhc_medicare_logo.svg
-      text: "  LOREM IPSUM"
+      text: Unitedhealthcare Medicare & Retirement
   heading: "LOREM IPSUM  "
   description: " LOREM IPSUM"
 main:
