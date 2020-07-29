@@ -7,6 +7,44 @@ Here is a little more about me, and my work experience. <br />
 
 ## Work Experience
 
+<table class="resume">
+ <tr>
+  <th> Software Management Consultants, Inc </th>
+  <th> Start</th>
+  <th> End </th>
+ </tr>
+ <tr>
+  <td> Technical Product Owner - Windsor Fashions, eCommerce</td>
+  <td> Feb 2019 </td>
+  <td> Mar 2020 </td>
+ </tr>
+<table class="role">
+ <tr> 
+  <td> → Helped lead the eCommerce re-platform initiative to Shopify Plus by partnering with multiple vendors and 10+ internal teams.							 <br />→ Managed Windsor Fashions (www.windsorstore.com) digital operations to grow annual sales by 50% to over 60 million dollars. <br />→ Managed 15+ external vendors, and digital agencies to deliver enhancements for eCommerce and other Windsor digital systems. <br />→ Ramped up an onshore & offshore development team of 7 people to take ownership of the eCommerce (Shopify) platform. <br />→ Led the knowledge transition between Windsor’s external development agency and Windsor’s internal development team - which included Shopify Plus and 20+ microservices responsible for inventory, products, digital merchandising, warehouse & order management, finance, accounting and reporting. <br />→ Identified business needs and technical requirements to deliver new features and resolve production or operational issues.  </td>
+ </tr>
+</table>
+</table>
+<table class="resume"> 
+ <tr>
+  <th> Ambient Consulting, LLC </th>
+  <th> </th>
+  <th> </th>
+ </tr>
+ <tr>
+  <td> Technical Product Owner - Best Buy Connectivity </td>
+  <td> Feb 2012 </td>
+  <td> Nov 2018 </td>
+ </tr>
+</table>
+<table class="role">
+ <tr>
+  <td> → Helped lead the eCommerce re-platform initiative to Shopify Plus by partnering with multiple vendors and 10+ internal teams.							 <br />→ Managed Windsor Fashions (www.windsorstore.com) digital operations to grow annual sales by 50% to over 60 million dollars. <br />→ Managed 15+ external vendors, and digital agencies to deliver enhancements for eCommerce and other Windsor digital systems. <br />→ Ramped up an onshore & offshore development team of 7 people to take ownership of the eCommerce (Shopify) platform. <br />→ Led the knowledge transition between Windsor’s external development agency and Windsor’s internal development team - which included Shopify Plus and 20+ microservices responsible for inventory, products, digital merchandising, warehouse & order management, finance, accounting and reporting. <br />→ Identified business needs and technical requirements to deliver new features and resolve production or operational issues.
+ 
+  </td>
+ </tr>
+</table>
+
+
 | Software Management Consultants, Inc             | Start        | End          |
 | ------------------------------------------------ | ------------ | ------------ |
 | ***Technical Product Owner - Windsor Fashions*** | **Feb 2019** | **Mar 2020** |
@@ -53,10 +91,9 @@ Here is a little more about me, and my work experience. <br />
 * Experience running Agile software delivery models (Scrum) to consistently deliver working software that provides value to the business.
 * Preparing user stories, UX designs, software designs and other key deliverables for software development - such as: customer journey maps, wireframe mockups, architecture diagrams, solution blueprints, sequence diagrams, use cases, API specifications, data mappings and more.
 * Well-versed in SDLC and project management tools, like: Axure, Visio, JIRA, Confluence, and Git.
-* Experience with software development practices and software technologies, including: data modeling, API design, Microservice design and implementation in many programming languages such as: .Net, NodeJS, Ruby, Angular, React, Python, MySQL, Cassandra, and cloud-technology stacks including Amazon Web Services, Azure and, Heroku.
-  Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+* Experience with software development practices and software technologies, including: data modeling, API design, Microservice design and implementation in many programming languages such as: .Net, NodeJS, Ruby, Angular, React, Python, MySQL, Cassandra, and cloud-technology stacks including Amazon Web Services, Azure and, Heroku. Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Education 
+### Education
 
 **University of Minnesota** 
 
